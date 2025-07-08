@@ -17,11 +17,17 @@ This repository contains the full implementation of a master's thesis project ti
 ## 📁 Repository Structure
 
 ├── Deep Learning Framework for Option Pricing.pdf # Full thesis document
+
 ├── Thesis_Presentation_Kyle_Bistrain.pptx # Final defense slide deck
+
 ├── PricingOptionsMastersThesis.Rproj # RStudio project file
+
 ├── README.md # Project documentation
+
 ├── option-pricing-via-machine-learning_KyleB...ipynb # Core modeling notebook
+
 ├── optionpricing_data_cleaning_may28.ipynb # Data cleaning and preprocessing
+
 ├── optionpricing_mlp_walkforward_may28.ipynb # Walkforward training and evaluation
 
 
