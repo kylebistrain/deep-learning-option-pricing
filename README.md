@@ -5,7 +5,7 @@ Author: Kyle Bistrain
 
 Date: August 29th, 2025
 
-This repository contains the full implementation of a master's thesis project titled **"Deep Learning Framework for Option Pricing: A Walkforward Study of SPY Options"**. The goal is to evaluate whether a constrained multilayer perceptron (MLP) model can outperform classical Black-Scholes pricing, using end-of-day data.
+This repository contains the full implementation of a master's thesis project titled **"Deep Learning Framework for Option Pricing: A Walkforward Study of SPY Options"**. The goal is to evaluate whether a multilayer perceptron (MLP) model can outperform classical Black-Scholes pricing, using end-of-day data.
 
 ## 🔍 Project Overview
 
@@ -48,7 +48,6 @@ This repository contains the full implementation of a master's thesis project ti
 ## 📊 Key Results
 
 - The constrained MLP achieves lower RMSE and MAE than Black-Scholes in many test periods.
-- Neural networks demonstrate flexibility across moneyness regimes while maintaining arbitrage-free conditions.
-
+- Neural networks demonstrate flexibility across moneyness regimes, however violates no aribitrage conditions.
 
 
