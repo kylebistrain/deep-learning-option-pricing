@@ -1,4 +1,4 @@
-# PricingOptionsMastersThesis
+# deep-learning-option-pricing
 
 Author: Kyle Bistrain
 
