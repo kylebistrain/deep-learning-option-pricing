@@ -15,11 +15,14 @@ This repository contains the full implementation of a master's thesis project ti
 
 ## 📁 Repository Structure
 
-├── Deep Learning Framework for Option Pricing.pdf       # Final thesis document
-├── Thesis_Presentation_Kyle_Bistrain.pptx               # Defense slide deck
-├── PricingOptionsMastersThesis.Rproj                    # RStudio project file
 ├── README.md                                            # This documentation file
+
+├── Deep Learning Framework for Option Pricing.pdf       # Final thesis document
+
+├── Thesis_Presentation_Kyle_Bistrain.pptx               # Defense slide deck
+
 ├── optionpricing_data_cleaning_may28.ipynb              # Data preprocessing notebook
+
 └── optionpricing_mlp_walkforward_may28.ipynb            # Walkforward MLP training and evaluation
 
 
