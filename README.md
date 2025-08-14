@@ -28,7 +28,7 @@ This repository contains the full implementation of a master's thesis project ti
 
 ## 🧪 Methodology
 
-- **American Option Pricing:** While Black-Scholes assumes European-style exercise, this study approximates early exercise behavior heuristically using ex-dividend flags.
+- **American Option Pricing:** While Black-Scholes assumes European-style exercise, this study approximates early exercise behavior heuristically using ex-dividend flags and days to ex-dividend date.
 - **Volatility Inputs:**
   - Realized volatility calculated using rolling log-return windows.
   - Implied volatility approximated with VIX3M, and VIX6M for matched horizons.
