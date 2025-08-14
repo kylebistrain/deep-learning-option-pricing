@@ -39,7 +39,8 @@ This repository contains the full implementation of a master's thesis project ti
 
 ## 📊 Key Results
 
-- The constrained MLP achieves lower RMSE and MAE than Black-Scholes in many test periods.
+- Volatility estimates make a bigger difference than architecture. 
+- The constrained MLP achieves lower RMSE and MAE than Black-Scholes in several test periods.
 - Neural networks demonstrate flexibility across moneyness regimes, however violates no aribitrage conditions.
 
 
