@@ -4,7 +4,7 @@ Author: Kyle Bistrain
 
 Date: August 29th, 2025
 
-This repository contains the full implementation of a master's thesis project titled **"Deep Learning Framework for Option Pricing: A Walkforward Study of SPY Options"**. The goal is to evaluate whether a multilayer perceptron (MLP) model can outperform classical Black-Scholes pricing, using end-of-day data.
+This repository contains the full implementation of a master's thesis project titled **"Deep Learning Framework for Option Pricing"**. The goal is to evaluate whether a multilayer perceptron (MLP) model can outperform classical Black-Scholes pricing, using end-of-day data.
 
 ## 🔍 Project Overview
 
