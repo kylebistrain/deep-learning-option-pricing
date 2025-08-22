@@ -28,19 +28,20 @@ This repository contains the full implementation of a master's thesis project ti
 
 ## 🧪 Methodology
 
-- **American Option Pricing:** While Black-Scholes assumes European-style exercise, this study approximates early exercise behavior heuristically using ex-dividend flags and days to ex-dividend date.
+- **American Option Pricing:** While Black-Scholes-Merton assumes European-style exercise, this study approximates early exercise behavior heuristically using ex-dividend flags and days to ex-dividend date.
 - **Volatility Inputs:**
   - Realized volatility calculated using rolling log-return windows.
   - Implied volatility approximated with VIX3M, and VIX6M for matched horizons.
 - **Training Strategy:** Rolling window walkforward CV with monthly step-forward retraining and evaluation.
 - **Constraints:** The MLP model fails to enforce no-arbitrage constraints such as:
   - Monotonicity in strike
-  - Convexity of the price surface
+  - Monotonicity in price
+  - Convexity in strike 
 
 ## 📊 Key Results
 
 - Volatility estimates make a bigger difference than architecture. 
-- The constrained MLP achieves lower RMSE and MAE than Black-Scholes in several test periods.
+- The constrained MLP achieves lower RMSE and MAE than Black-Scholes-Merton in several test periods.
 - Neural networks demonstrate flexibility across moneyness regimes, however violates no aribitrage conditions.
 
 
