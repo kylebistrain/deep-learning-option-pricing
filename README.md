@@ -36,7 +36,6 @@ This repository contains the full implementation of a master's thesis project ti
 - **Constraints:** The MLP model fails to enforce no-arbitrage constraints such as:
   - Monotonicity in strike
   - Monotonicity in price
-  - Convexity in strike 
 
 ## 📊 Key Results
 
