@@ -21,9 +21,9 @@ This repository contains the full implementation of a master's thesis project ti
 
 ├── Thesis_Presentation_Kyle_Bistrain.pptx               # Defense slide deck
 
-├── optionpricing_data_cleaning_may28.ipynb              # Data preprocessing notebook
+├── optionpricing_cleaning_final.py             # Data preprocessing notebook
 
-└── optionpricing_mlp_walkforward_may28.ipynb            # Walkforward MLP training and evaluation
+└── optionpricing_mlp_walkforward_final.py           # Walkforward MLP training and evaluation
 
 
 ## 🧪 Methodology
