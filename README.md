@@ -42,7 +42,7 @@ This repository contains the full implementation of a master's thesis project ti
 
 ## Citation
 
-Bistrain, Kyle (2025). *Deep Learning Framework for Option Pricing: A Walkforward Study of SPY Options. 
-Master’s Thesis*, Cal Poly San Luis Obispo.
+Bistrain, Kyle (2025). *Deep Learning Framework for Option Pricing*.  
+*Master’s Thesis*, Cal Poly San Luis Obispo.
 
 
