@@ -17,10 +17,6 @@ This repository contains the full implementation of a master's thesis project ti
 
 ├── README.md                                            # This documentation file
 
-├── Deep Learning Framework for Option Pricing.pdf       # Final thesis document
-
-├── Thesis_Presentation_Kyle_Bistrain.pptx               # Defense slide deck
-
 ├── optionpricing_cleaning_final.py             # Data preprocessing notebook
 
 └── optionpricing_mlp_walkforward_final.py           # Walkforward MLP training and evaluation
